@@ -18,4 +18,4 @@ System Administrator with hands-on experience in enterprise IT infrastructure si
 
 ### 💻 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,ansible,jenkins,postgres,mysql,bash,py,go,ts,php&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,ansible,jenkins,postgres,redis,mongodb,mysql,bash,py,go,ts,php&theme=dark)
